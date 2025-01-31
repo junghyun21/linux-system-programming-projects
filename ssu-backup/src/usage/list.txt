@@ -1,0 +1,5 @@
+list [PATH] : show backup list by directory structure
+  >> rm <INDEX> [OPTION]... : remove backuped files of [INDEX] with [OPTION]
+  >> rc <INDEX> [OPTION]... : recover backuped files of [INDEX] with [OPTION]
+  >> vi(m) <INDEX> : edit original file of [INDEX]
+  >> exit : exit program

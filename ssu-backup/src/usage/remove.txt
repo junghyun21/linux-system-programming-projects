@@ -1,0 +1,4 @@
+remove <PATH> [OPTION]... : remove backuped file if <PATH> is file
+  -d : remove backuped files in directory if <PATH> is directory
+  -r : remove backuped files in directory recursive if <PATH> is directory
+  -a : remove all backuped files

@@ -1,0 +1,4 @@
+backup <PATH> [OPTION]... : backup file if <PATH> is file
+  -d: backup files in directory if <PATH> is directory
+  -r: backup files in directory recursive if <PATH> is directory
+  -y: backup file although already backuped

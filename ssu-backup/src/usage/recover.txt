@@ -1,0 +1,5 @@
+recover <PATH> [OPTION]... : recover backuped file if <PATH> is file
+  -d : recover backuped files in directory if <PATH> is directory
+  -r : recover backuped files in directory recursive if <PATH> is directory
+  -l : recover latest backuped file
+  -n <NEW_PATH> : recover backuped file with new path
