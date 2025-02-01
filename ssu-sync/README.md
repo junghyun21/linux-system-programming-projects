@@ -7,7 +7,7 @@
 
 `ssu_sync`는 리눅스 환경에서 특정 파일 및 디렉토리를 **실시간으로 감시**하고, 변경이 발생할 경우 **자동으로 백업 및 로그 기록**을 수행하는 프로그램입니다. 
 
-- [명세서](https://github.com/junghyun21/linux-system-programming-projects/blob/main/ssu-sync/docs/sync-project-spec.pdf)
+- [명세서](https://github.com/junghyun21/linux-system-programming-projects/tree/main/ssu-sync/docs/sync-project-spec.pdf)
 - [결과 보고서](https://github.com/junghyun21/linux-system-programming-projects/tree/main/ssu-sync/docs/sync-report.pdf)
 
 
