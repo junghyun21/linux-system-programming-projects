@@ -7,7 +7,7 @@
 
 `ssu_backup`은 리눅스 환경에서 **파일 및 디렉토리의 백업, 복원, 삭제 기능을 수행하는 백업 관리 프로그램**입니다.
 
-- [명세서](https://github.com/junghyun21/linux-system-programming-projects/tree/main/ssu-backup/docs/backup-project-specification.pdf)
+- [명세서](https://github.com/junghyun21/linux-system-programming-projects/blob/main/ssu-backup/docs/backup-project-spec.pdf)
 - [결과 보고서](https://github.com/junghyun21/linux-system-programming-projects/tree/main/ssu-backup/docs/backup-report.pdf)
 
 <br>
